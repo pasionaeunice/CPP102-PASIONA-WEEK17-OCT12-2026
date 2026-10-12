@@ -1,7 +1,9 @@
 Simulated Device Monitoring and Alert System
 
 Student Name: Pasiona, Eunice R.
+
 Student Number: 2600396
+
 Section: 1CPE-A
 
 1. Project Title
